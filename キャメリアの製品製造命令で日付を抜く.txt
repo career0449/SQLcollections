@@ -1,0 +1,15 @@
+select 
+control_no
+,production_no
+,created_at
+,factory_completion_date
+,scheduled_assembly_start_date
+,specification_change_deadline_date
+,design_deadline_date
+,control_finish_date
+,design_finish_date
+,production_start_date
+,completion_date
+shipment_date
+from product_order
+order by control_no
