@@ -1,12 +1,10 @@
 test
 
 edit at local
-<<<<<<< Updated upstream
-=======
 
 edit at local
 
 edit for custom program
 
 edit for custom2 program
->>>>>>> Stashed changes
+
